@@ -3,7 +3,7 @@
     "editor.inlayHints.enabled": "off",
     "files.exclude": {
         "**/.devcontainer": false,
-        "**/.vscode": true,
+        "**/.vscode": false,
         "**/.gitignore": true,
         "**/.github": true,
     },
