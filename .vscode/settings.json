@@ -1,4 +1,5 @@
 {
+    "workbench.startupEditor":"none",
     "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
     "files.exclude": {
@@ -10,8 +11,10 @@
     "java.server.launchMode": "Standard",
     "java.dependency.packagePresentation": "flat",
     "java.project.sourcePaths": [
-        "src"
+        "src",
+        "./"
     ],
+    "java.project.explorer.showNonJavaResources": true,
     "redhat.telemetry.enabled": false,
     "git.autofetch": true,
     "workbench.tree.indent": 30,
